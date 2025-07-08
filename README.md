@@ -379,6 +379,8 @@ Your choice:
 
 **[⬆ back to top](#table-of-contents)**
 
+# WE ARE HERE RN ( going throught the coursera course in java ) 
+
 ## Interview Prep Books
 
 Here are some recommended books to supplement your learning.
